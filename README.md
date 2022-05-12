@@ -3,6 +3,7 @@ Bone Marrow Transplantation survival model and data exploration
 
 
 Contexte de l'étude
+
 L'ensemble de données décrit des patients pédiatriques atteints de plusieurs maladies hématologiques : troubles malins (par exemple, leucémie lymphoblastique aiguë, leucémie aiguë myéloïde, leucémie myéloïde chronique, syndrome myélodysplasique) et cas non malins (par exemple, anémie aplasique sévère, anémie de Fanconi, avec adrénoleucodystrophie liée à l'X). Tous les patients ont été soumis à une greffe allogénique non manipulée de cellules souches hématopoïétiques d'un donneur.
 
 Le dataset est contitué de 187 instances et de 39 attributs. De plus il contient des valeurs manquantes
